@@ -5,7 +5,7 @@
 <objective>Capture all 3 of enemy team's woll and return them to your base.</objective>
 <authors>
     <author contribution="Map Design">MrTazz4077</contributor>
-	<author contribution="Map Design">dashingdan97</contributor>
+    <author contribution="Map Design">dashingdan97</contributor>
 </authors>
 <contributors>
     <contributor contribution="Feedback and XML Coding">supremegamer</contributor>
@@ -22,7 +22,7 @@
 <spawns>
     <spawns kit="spawn">
         <spawn team="blue" yaw="90"<cylinder base="2,3.5,-23" radius="5" height="0"/></spawn>
-		<spawn team="red yaw="90"<cylinder base="x(when done),y,x" radius="5" height="0"/></spawn>
+	<spawn team="red yaw="90"<cylinder base="x(when done),y,x" radius="5" height="0"/></spawn>
         </spawn>
 		<default yaw="270"><cylinder base="141,42,150" radius="3" height="0"/></default>
     </spawns>
@@ -34,8 +34,8 @@
         <item slot="2" enchantment="durability:3;dig speed:1">iron pickaxe</item>
         <item slot="4" amount="64">glass</item>
         <item slot="3" amount="64" damage="1">log</item>
-		<item slot="6">milk bucket</item>
-		<item slot="7">golden apple</item>
+	<item slot="6">milk bucket</item>
+	<item slot="7">golden apple</item>
     </kit>
 </kits>
 <regions>
@@ -46,21 +46,11 @@
     </apply>
 </regions>
 <toolrepair>
-    <tool>stone sword</tool>
+    <tool>iron sword</tool>
     <tool>bow</tool>
 </toolrepair>
 <itemremove>
-    <item>arrow</item>
-    <item>leather helmet</item>
-    <item>leather chestplate</item>
-    <item>leather leggings</item>
-    <item>leather boots</item>
-    <item>cooked chicken</item>
-    <item>ladder</item>
+   
 </itemremove>
-<maxbuildheight>40</maxbuildheight>
-<timelock>on</timelock>
-<score>
-    <time>600</time>
-</score>
+<maxbuildheight>Something</maxbuildheight>
 </map>
