@@ -22,7 +22,7 @@
 <spawns>
     <spawns kit="spawn">
         <spawn team="blue" yaw="90"<cylinder base="2,3.5,-23" radius="5" height="0"/></spawn>
-		<spawn team="red yaw="90"<cylinder base="x,y,x" radius="5" height="0"/></spawn>
+		<spawn team="red yaw="90"<cylinder base="x(when done),y,x" radius="5" height="0"/></spawn>
         </spawn>
 		<default yaw="270"><cylinder base="141,42,150" radius="3" height="0"/></default>
     </spawns>
