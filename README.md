@@ -1,7 +1,7 @@
 xmlmrtazz
 =========
 
-MrTazz4077's PGM map xml help for supremegamer
+MrTazz4077's PGM map xml help for supremegamer(Gregory, tazz friend from school)
 
 Spectrumdo
 1.0
